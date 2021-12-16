@@ -11,7 +11,7 @@ The goal of this project was to use Regression models to predict the Price of La
 - [Project Proposal](Regression_Project_Proposal.ipynb)
 - [Model](Linear_Regression_Alhuwaishel_Alnujaidy.ipynb)
 - [Presentation](Linear_Regression_Alhuwaishel_Alnujaidy.pptx)
-- [Project Writeup](Linear_Regression_Alhuwaishel_Alnujaidy.docx)
+- [Project Writeup](Linear_Regression_Alhuwaishel_Alnujaidy_Report.docx)
 
 <!-- **Instructor:** [**Mr. Srinivas Rao**]()
  -->
